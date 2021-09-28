@@ -841,7 +841,7 @@ Wenn Sie Fehler feststellen, dann sollten Sie eine neue Verbindungsdatei erstell
     <value>Kann das Port-Scan-Panel nicht laden!</value>
   </data>
   <data name="PropertyDescriptionHostnameIp" xml:space="preserve">
-    <value>Der Hostname oder die IP, zu der eine Verbinung aufgebaut werden soll.</value>
+    <value>Der Hostname oder die IP, zu der eine Verbindung aufgebaut werden soll.</value>
   </data>
   <data name="PropertyDescriptionAll" xml:space="preserve">
     <value>Umschalten aller Vererbungen</value>
